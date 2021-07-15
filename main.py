@@ -1,7 +1,8 @@
 import time
 import requests
 
-# this is only for test purpose 
+# this is only for test purpose
+# v0.0.0
 def main():
     print('init ...')
     num = 1
