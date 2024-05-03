@@ -13,4 +13,3 @@ def main():
         print(res.text)
         num += 1
 
-
