@@ -13,3 +13,6 @@ def main():
         print(res.text)
         num += 1
 
+def func():
+    print("another function")
+    
